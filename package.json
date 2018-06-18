@@ -15,5 +15,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "find-cache-dir": "^1.0.0"
   }
 }
